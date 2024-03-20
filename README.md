@@ -12,6 +12,6 @@ Username dicoding: yudi_faturohman_i15d
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
 | Metrik evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
 | Performa model | Deksripsi performa model yang dibuat |
-| Opsi deployment | Deksripsi tentang opsi deployment |
+| Opsi deployment | Untuk deployment model saya menggunakan layanan VPS (Virtual Private Server) dengan menggunakan OS Ubuntu 20.04 |
 | Web app | Tautan web app yang digunakan untuk mengakses model serving. Contoh: [nama-model](https://model-resiko-kredit.herokuapp.com/v1/models/model-resiko-kredit/metadata)|
 | Monitoring | Deksripsi terkait hasil monitoring dari model serving |
