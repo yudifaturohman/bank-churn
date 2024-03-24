@@ -13,5 +13,5 @@ Username dicoding: yudi_faturohman_i15d
 | Metrik evaluasi | Beberapa metircs evaluasi yang di gunakan AUC, Precision, Recall, BinaryAccuracy, TruePositive, FalsePositive, TrueNegative, FalseNegative untuk mengevaluasi performa model sebuah klasifikasi. |
 | Performa model | Performa model yang dihasilkan dari proses prediksi dan pelatihan memiliki binary_accuracy 87% dan val_binary_accuracy 85%, sangat cukup dan tidak terjadi overfitting. |
 | Opsi deployment | Untuk deployment model saya menggunakan layanan VPS (Virtual Private Server) dengan menggunakan OS Ubuntu 20.04 |
-| Web app | Tautan web app yang digunakan untuk mengakses model serving. Contoh: [nama-model](https://model-resiko-kredit.herokuapp.com/v1/models/model-resiko-kredit/metadata)|
+| Web app | Tautan web app yang digunakan untuk mengakses model serving. [bank-churn-detection](http://203.175.11.88:8501/v1/models/bank-churn-model/metadata)|
 | Monitoring | Monitoring pada proyek ini dapat dilakukan dengan menggunakan layanan open-source yaitu prometheus dan menggunakan grafana untuk menampilkan dashboard grafik yang mudah di pahami. Contohnya setiap perubahan jumlah request yang dilakukan kepada sistem ini dapat dimonitoring dengan baik dan dapat menampilkan status dari setiap request yang diterima. |
